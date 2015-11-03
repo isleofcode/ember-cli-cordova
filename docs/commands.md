@@ -57,7 +57,7 @@ Needed after cloning or copying a project.
 ###Available options
 
 ####Examples
-+ `ember cordova:prepare`
++ `ember cordova prepare`
 
 ##Cordova
 

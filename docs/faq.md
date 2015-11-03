@@ -4,7 +4,7 @@
 
 If you are running a cli command, make sure the dist directory exists. You can
 run `ember build` to create it if it doesnt. You can also try to run `ember
-cordova:prepare`
+cordova prepare`
 
 #### When running `ember cordova:archive` command I get an Xcode build error saying the scheme doesnt exist
 
